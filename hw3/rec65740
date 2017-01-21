@@ -1,0 +1,39 @@
+hw3:
+total 936
+drwxr-xr-x. 3 ugrad   4096 Apr 17 23:47 app
+-rw-r--r--. 1 ugrad 942938 Apr 17 23:46 jerry_springfield_currency.war
+-rw-r--r--. 1 ugrad    358 Apr 18 00:03 README.txt
+-rw-r--r--. 1 ugrad      0 Apr 18 00:04 rec65740
+drwxr-xr-x. 3 ugrad   4096 Apr 17 23:57 src
+
+hw3/app:
+total 8
+-rw-r--r--. 1 ugrad 2942 Apr 17 23:47 converter.html
+drwxr-xr-x. 4 ugrad 4096 Apr 17 23:48 WEB-INF
+
+hw3/app/WEB-INF:
+total 12
+drwxr-xr-x. 3 ugrad 4096 Apr 17 23:57 classes
+drwxr-xr-x. 2 ugrad 4096 Apr 17 23:50 lib
+-rw-r--r--. 1 ugrad  487 Apr 17 23:48 web.xml
+
+hw3/app/WEB-INF/classes:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Apr 17 23:57 Converter
+
+hw3/app/WEB-INF/classes/Converter:
+total 4
+-rw-r--r--. 1 ugrad 3398 Apr 17 23:51 Converter.class
+
+hw3/app/WEB-INF/lib:
+total 964
+-rw-r--r--. 1 ugrad 985603 Apr 17 23:50 mysql-connector-java-5.1.37-bin.jar
+
+hw3/src:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Apr 17 23:57 Converter
+
+hw3/src/Converter:
+total 4
+-rw-r--r--. 1 ugrad 2641 Apr 17 23:45 Converter.java
+/home/ugrads/jerry/cs4050/hw3:/home/work/csx050
